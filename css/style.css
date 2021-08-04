@@ -1,0 +1,19 @@
+header{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    padding-left: 50px;
+    
+}
+nav{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+}
