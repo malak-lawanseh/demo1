@@ -17,3 +17,18 @@ nav{
 a{
     text-decoration: none;
 }
+div button{
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    border: none;
+    color: rgb(3, 99, 112);
+    font-size: 20px;
+}
+#bekachu{
+    position:absolute;
+    top: 200px;
+    left: 150px;
+    height: 100px ;
+    width: 100px;
+}
